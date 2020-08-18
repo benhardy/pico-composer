@@ -1,4 +1,11 @@
-# Hello
+---
+Title: hardy.sydney
+Description: Blog of a software engineer named Ben Hardy.
+Author: Ben Hardy
+Date: 2020-08-18
+Template: index
+---
+# Hi.
 
-This is the front page.
+Welcome to my site.
 
